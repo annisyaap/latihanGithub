@@ -16,6 +16,7 @@ public class tryGIT {
 		System.out.println("Hasil C = "+c);
 		System.out.println("Kenapa bas ganteng?");
 		System.out.println("Yaudah daru sananya dul");
+		System.out.println("aku ganteng");
 		
 
 	}
