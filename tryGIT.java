@@ -17,6 +17,8 @@ public class tryGIT {
 		System.out.println("Kenapa bas ganteng?");
 		System.out.println("Yaudah daru sananya dul");
 		System.out.println("aku ganteng");
+
+		System.out.println("tes tes 123");
 		
 
 	}
