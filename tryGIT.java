@@ -9,7 +9,8 @@ public class tryGIT {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Latihan GIT doang");
-			System.out.println("Aku anggota kelompok 6");
+		System.out.println("Bisa dong yaaaaa");
+
 
 	}
 
