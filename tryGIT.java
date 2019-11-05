@@ -10,10 +10,11 @@ public class tryGIT {
 		// TODO Auto-generated method stub
 		System.out.println("Latihan GIT doang");
 		System.out.println("Bisa dong yaaaaa");
-		int a = 1;
-		int b = 3;
-		int c = a+b;
+		int a = 4;
+		int b = 6;
+		int c = b-a;
 		System.out.println("Hasil C = "+c);
+		
 
 	}
 
